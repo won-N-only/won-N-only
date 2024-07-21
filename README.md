@@ -17,9 +17,6 @@ Aspiring Web Server Engineer
 ## Experience
 - **2024.03**: SW사관학교 카이스트 정글 8기 
 
-## Projects
-- [Egg-Talk](https://github.com/hongal-dan)
-
 #### 📫 Contact: [siliver12@gmail.com](mailto:siliver12@gmail.com)
 
 <!--
