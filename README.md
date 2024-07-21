@@ -15,9 +15,11 @@ Aspiring Web Server Engineer
 </div>
 
 ## Experience
-- **2024.03**: SW사관학교 카이스트 정글 8기 
+- **2024.03**: SW사관학교 카이스트 정글 8기
 
-#### 📫 Contact: [siliver12@gmail.com](mailto:siliver12@gmail.com)
+
+## Contact
+[siliver12@gmail.com](mailto:siliver12@gmail.com)
 
 <!--
 **won-N-only/won-N-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
