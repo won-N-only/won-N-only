@@ -8,7 +8,7 @@ Aspiring Web Server Engineer
 
 ## Currently Learning  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws,go&theme=light" width='300px' />
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws&theme=light" width='300px' />
 </a>
 
 ## Experience
