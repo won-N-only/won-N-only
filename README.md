@@ -3,7 +3,7 @@ Aspiring Web Server Engineer
 
 ## Main Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=light" width='100px' />
+  <img src="https://skillicons.dev/icons?i=nestjs,typescript&theme=light" width='200px' />
 </a>
 
 ## Currently Learning  
