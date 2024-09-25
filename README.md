@@ -20,8 +20,8 @@ Aspiring Web Server Engineer
 
 ## Trivia
 <p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=won-N-only&show_icons=true&theme=default#gh-light-mode-only" height="180" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
 </p>
 
 <!--
