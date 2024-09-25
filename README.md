@@ -18,6 +18,12 @@ Aspiring Web Server Engineer
 ## Contact
 [siliver12@gmail.com](mailto:siliver12@gmail.com)
 
+## Trivia
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=won-N-only&show_icons=true&theme=default#gh-light-mode-only" height="180" />
+</p>
+
 <!--
 **won-N-only/won-N-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
