@@ -20,9 +20,14 @@ Aspiring Web Server Engineer
 
 ## Trivia
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=won-N-only&show_icons=true&theme=default#gh-light-mode-only" height="180" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
+  <a href="https://github.com/won-N-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=won-N-only&show_icons=true&theme=default#gh-light-mode-only" height="180" />
+  </a>
+  <a href="https://solved.ac/profile/siliver12">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
+  </a>
 </p>
+
 
 <!--
 **won-N-only/won-N-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
