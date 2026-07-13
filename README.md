@@ -20,9 +20,7 @@ Aspiring Web Server Engineer
 
 ## Trivia
 <p>
-  <a href="https://github.com/won-N-only" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=won-N-only&show_icons=true&theme=default#gh-light-mode-only" height="180" />
-  </a>
+
   <a href="https://solved.ac/profile/siliver12" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siliver12" height="180" />
   </a>
