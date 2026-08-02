@@ -3,12 +3,12 @@ Aspiring Web Server Engineer
 
 ## Main Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,expressjs,typescript&theme=light" width='300px' />
+  <img src="https://skillicons.dev/icons?i=nestjs,expressjs,mongodb,docker,aws,git&theme=light" width='500px' />
 </a>
 
 ## Currently Learning  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws,git&theme=light" width='350px' />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,spring&theme=light" width='200px' />
 </a>
 
 ## Experience
