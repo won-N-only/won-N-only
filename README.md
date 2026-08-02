@@ -18,6 +18,8 @@ Aspiring Web Server Engineer
 ## Contact
 [siliver12@gmail.com](mailto:siliver12@gmail.com)
 
+[blog](https://won-n-only.github.io/blog/)
+
 ## Trivia
 <p>
 
